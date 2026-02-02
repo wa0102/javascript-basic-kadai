@@ -1,5 +1,5 @@
 const price = (num) => {
-  return num * 10;
+  return num * num;
 }
 
 console.log(price(10));
